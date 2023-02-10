@@ -1,0 +1,113 @@
+.printonly {
+    display: block;
+}
+
+.screenonly {
+    display: none;
+}
+
+.navbar {
+    display: none !important;
+}
+
+.top-left {
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+.qr {
+    float: right;
+    top: 0;
+    right: 0;
+    font-size: 7pt;
+    text-align: center;
+}
+
+.qr img {
+    width: 100px;
+}
+
+.banner {
+    padding-bottom: 40px;
+    border-bottom: 2px solid #cccccc;
+}
+
+.banner h1 {
+    font-size: 18pt;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.container {
+    margin-left: 0;
+    margin-right: 0;
+    max-width: 100%;
+}
+
+.row {
+    width: 100%;
+}
+
+h1 {
+    font-size: 18pt;
+    margin-top: 40px;
+    margin-bottom: 25px;
+}
+
+h2 {
+    font-size: 16pt;
+}
+
+h3 {
+    font-size: 14pt;
+}
+
+h4 {
+    font-size: 12pt;
+    font-style: italic;
+}
+
+h5 {
+    font-size: 12pt;
+}
+
+body {
+    font-size: 10pt;
+}
+
+.row h1,
+.row h2,
+.row h3,
+.row h4 {
+    border-bottom: 1px solid #cccccc;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link:after {
+    content: "\00a0(" attr(href) ")";
+}
+
+.src {
+    font-size: 8pt;
+}
+
+.download {
+    font-size: 10pt;
+}
+
+.col-md-6, li, ul, p {
+    page-break-inside: avoid;
+    width: 100%;
+}
+
+.row {
+    display: block;
+}
+
+.past-event-img{
+    width: 100px;
+}
