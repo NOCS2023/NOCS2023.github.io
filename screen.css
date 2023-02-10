@@ -34,15 +34,15 @@ body {
 
 .banner_bg {
     position:absolute;
-    height: 125px;
+    height: 80px;
     bottom: 0;
     right: 0;
 }
 
 .top-left {
     position: absolute;
-    top: 50px;
-    left: 45px;
+    top: 5px;
+    left: 50px;
     padding-right: 50px;
     padding-bottom: 50px;
 }
