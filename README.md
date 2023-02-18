@@ -85,6 +85,7 @@ Sujay Deb (IIIT Delhi)
 ### Publicity Chairs
 Kun-Chih (Jimmy) Chen (National Yang Ming Chiao Tung University)  
 José L. Abellán (University of Murcia)  
+Peipei Zhou (University of Pittsburgh)  
 
 ### Special Sessions Chair
 Poona Bahrebar (Ghent University)  
