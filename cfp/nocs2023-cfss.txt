@@ -1,0 +1,41 @@
+NOCS 2023
+=========
+
+17th IEEE/ACM International Symposium on Networks-on-Chip  
+September 21-22, 2023, Hamburg, Germany  
+(Held in conjunction with Embedded Systems Week 2023)  
+https://nocs2023.github.io/  
+
+
+## CALL FOR SPECIAL SESSIONS
+NOCS'23 welcomes Special Session proposals targeting new directions and emerging paradigms relevant to the NOCS community. The aim of the Special Sessions is to complement and/or extend the regular technical sessions, and strengthen the technical program.  
+Special Sessions can take the form of:
+- **Hot-Topic Sessions** dealing with the introduction and discussion of new R&D problems.
+- **Tutorial Sessions** addressing trends in the domains that are of interest to the conference participants.
+
+
+## Submission Guidelines 
+Special Session proposals should consist of an extended summary (up to 1500 words, free format) describing the session content and format. The proposals should be sent by email to the Session Chair by May 5, 2023.
+
+Proposals should include:
+- **Title of the special session**
+- **Rationale of the need for the special session at NOCS** - The rationale should discuss the novelty of the topic, its multidisciplinary features (if any), and explain how it is different from the subjects covered by the regular sessions
+- **Short biography of the organizers**
+- For **Hot-Topic Sessions**, three contributed presentations (including finalized titles, an abstract of each contribution, contact information of the presenters, and their short biography) should be listed.
+- For **Tutorial Session**, contact information of three to five speakers, their short biography, and area of expertise should be listed.
+
+All proposals will be evaluated in terms of novelty, quality, and technical/scientific contribution.
+
+
+## Publication
+NOCS'23 adopts a journal-integrated publication model (https://nocs2023.github.io/submission.html). In case of acceptance, each contributor in a Hot-Topic Session can submit a manuscript to NOCS' **IEEE Design & Test Special Issue**. For Tutorial Sessions, one submission is allowed per session, summarizing the main contributions of all the contributors.
+
+For the accepted proposals, the organizers should ensure that the submission deadlines are met, and the manuscript is technically sound, meets the standards of NOCS, and strictly follows the formatting guidelines (https://nocs2023.github.io/submission.html). The Special Sessions Chair may decline the publication of the manuscript if the above criteria are not fulfilled.
+
+
+## Important Dates
+**Special Session proposals:** May   5, 2023  
+**Acceptance notification:**   May  19, 2023  
+**Paper Submission:**          June 23, 2023  
+**Feedback and Review:**       July  7, 2023  
+**Camera-ready Submission:**   July 21, 2023  
