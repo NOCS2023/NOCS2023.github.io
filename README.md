@@ -66,8 +66,8 @@ Please find the detailed submission instructions for paper submission, special s
 --------------------------------------------------------------------------------
 
 ## Important Dates (Anywhere on Earth)
-Abstract registration: April 14, 2023  
-Full-paper submission: April 21, 2023  
+Abstract registration: April 28, 2023 (EXTENDED)  
+Full-paper submission: April 28, 2023 (EXTENDED)  
 First notification and reviews: June 23, 2023  
 Submission of revised papers: July 14, 2023  
 Final notification of acceptance: July 28, 2023  
