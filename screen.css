@@ -107,6 +107,6 @@ h1 {
     color:red;
 }
 
-.nav-attend, .nav-program, .nav-registration {
+.nav-attend, .nav-registration {
     display: none;
 }
