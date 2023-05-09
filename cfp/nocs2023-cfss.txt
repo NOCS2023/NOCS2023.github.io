@@ -15,14 +15,14 @@ Special Sessions can take the form of:
 
 
 ## Submission Guidelines 
-Special Session proposals should consist of an extended summary (up to 1500 words, free format) describing the session content and format. The proposals should be sent by email to the Session Chair by May 5, 2023.
+Special Session proposals should consist of an extended summary (up to 1500 words, free format) describing the session content and format. The proposals should be sent by email to the Session Chair by May 15, 2023.
 
 Proposals should include:
 - **Title of the special session**
 - **Rationale of the need for the special session at NOCS** - The rationale should discuss the novelty of the topic, its multidisciplinary features (if any), and explain how it is different from the subjects covered by the regular sessions
 - **Short biography of the organizers**
 - For **Hot-Topic Sessions**, three contributed presentations (including finalized titles, an abstract of each contribution, contact information of the presenters, and their short biography) should be listed.
-- For **Tutorial Session**, contact information of three to five speakers, their short biography, and area of expertise should be listed.
+- For **Tutorial Session**, contact information of 1-5 speakers, their short biography, and area of expertise should be listed.
 
 All proposals will be evaluated in terms of novelty, quality, and technical/scientific contribution.
 
@@ -34,7 +34,7 @@ For the accepted proposals, the organizers should ensure that the submission dea
 
 
 ## Important Dates
-**Special Session proposals:** May   5, 2023  
+**Special Session proposals:** May  15, 2023  
 **Acceptance notification:**   May  19, 2023  
 **Paper Submission:**          June 23, 2023  
 **Feedback and Review:**       July  7, 2023  
